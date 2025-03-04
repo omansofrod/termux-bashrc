@@ -77,11 +77,11 @@
 # extra-keys = [[ESC, TAB, CTRL, ALT, {key: '-', popup: '|'}, DOWN, UP]]
 
 ### Two rows with more keys
-extra-keys = [['ESC','DRAWER','-','HOME','UP','END','PGUP'],\
-['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN'], \
+extra-keys = [['.','DRAWER','-','HOME','UP','END','nano'],\
+['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','clear'], \
 ['se','sf','sd','su','DEL','SPACE','ENTER'], \
 ['xdx','xds','xdl','xdr','rm -rfv 0','l','ll'], \
-['xdsr','nano','cat',';','.','-','echo']]
+['xdsr','d','c','s','x','.','cd ']]
 
 ### Configuration with additional popup keys (swipe up from an extra key)
 # extra-keys = [[ \
