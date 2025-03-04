@@ -77,7 +77,7 @@
 # extra-keys = [[ESC, TAB, CTRL, ALT, {key: '-', popup: '|'}, DOWN, UP]]
 
 ### Two rows with more keys
-extra-keys = [['ESC'DRAWER'/','-','HOME','UP','END','PGUP'],\
+extra-keys = [['ESC','DRAWER','-','HOME','UP','END','PGUP'],\
 ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN'], \
 ['se','sf','sd','su','DEL','SPACE','ENTER'], \
 ['xdx','xds','xdl','xdr','rm -rfv 0','l','ll'], \
